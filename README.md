@@ -16,14 +16,12 @@ This project is a starting point for a Flutter application.
 
 - **Responsive Design**: The app is optimized for both mobile and web platforms.
 
-![Screenshot 3](images/img3.png)
-
 - **Conversation History**: Users can view past interactions for context.
 
-![Screenshot 4](images/img3.png)
+![Screenshot 3](images/img3.png)
 - **Multi-Language Support**: The chatbot can respond in multiple languages, allowing users from different linguistic backgrounds to interact seamlessly.
 
-![Screenshot 5](images/img5.png.png)
+![Screenshot 4](images/img4.png.png)
 
 ### Multi-Language Support
 The chatbot is designed to support various languages, enabling users to communicate in their preferred language. Currently, examples:
