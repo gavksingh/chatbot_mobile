@@ -1,16 +1,44 @@
-# chatbot_mobile
+# Chatbot Mobile
 
-A new Flutter project.
+A new Flutter project for a chatbot application that utilizes the OpenAI API to generate responses.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Features
+- **Natural Language Processing**: The chatbot uses OpenAI's API for understanding and generating human-like responses.
+![Screenshot 1](images/img1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User-Friendly Interface**: Intuitive design for easy interaction with the chatbot.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2](images/img2.png)
+
+- **Responsive Design**: The app is optimized for both mobile and web platforms.
+
+![Screenshot 3](images/img3.png)
+
+- **Conversation History**: Users can view past interactions for context.
+
+![Screenshot 4](images/img3.png)
+- **Multi-Language Support**: The chatbot can respond in multiple languages, allowing users from different linguistic backgrounds to interact seamlessly.
+
+![Screenshot 5](images/img5.png.png)
+
+### Multi-Language Support
+The chatbot is designed to support various languages, enabling users to communicate in their preferred language. Currently, examples:
+- English
+- Spanish
+- French
+- Hindi
+- Korean
+- Chinese
+and many more!
+
+
+
+
+### Technologies Used
+- **Flutter**: For building the UI.
+- **Dart**: The programming language used for development.
+- **OpenAI API**: For generating responses based on user input.
