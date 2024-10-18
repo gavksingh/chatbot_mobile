@@ -35,3 +35,7 @@ and many more!
 - **Flutter**: For building the UI.
 - **Dart**: The programming language used for development.
 - **OpenAI API**: For generating responses based on user input.
+
+---
+
+© 2024 Gaurav Kumar Singh. All rights reserved.
