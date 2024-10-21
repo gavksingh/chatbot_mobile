@@ -13,7 +13,6 @@ A new Flutter project for a chatbot application that utilizes the OpenAI API to 
 
 - **Responsive Design**: The app is optimized for both mobile and web platforms.
 
-- **Conversation History**: Users can view past interactions for context.
 <img src="images/img3.png" alt="Screenshot 3" width="300" height="auto"/>
 
 - **Multi-Language Support**: The chatbot can respond in multiple languages, allowing users from different linguistic backgrounds to interact seamlessly.
