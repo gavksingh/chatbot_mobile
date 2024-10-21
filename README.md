@@ -4,8 +4,6 @@ A new Flutter project for a chatbot application that utilizes the OpenAI API to 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
 ### Features
 - **Natural Language Processing**: The chatbot uses OpenAI's API for understanding and generating human-like responses.
 <img src="images/img1.png" alt="Screenshot 1" width="300" height="auto"/>
