@@ -1,4 +1,4 @@
-# Chatbot Mobile
+# SmokeFreeTeen
 
 A new Flutter project for a chatbot application that utilizes the OpenAI API to generate responses.
 
